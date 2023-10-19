@@ -1,0 +1,3 @@
+name,ticker,isin,exchange,url,type
+"""BMW AG""",bmw,DE0005190003,FSE,https://www.finanzen.net/historische-kurse/bmw,stock
+"""iShares S&P 500 Utilities Sector UCITS ETF USD (Acc)""",14646,IE00B4KBBD01,FSE,https://www.finanzen.net/etf/kurse/shares-sp-500-utilities-sector-etf-ie00b4kbbd01,etf

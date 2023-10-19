@@ -1,0 +1,6 @@
+name,ticker,isin,exchange,type,url
+"""Clinuvel Pharmaceuticals LtdShs""",clinuvel_pharmaceuticals,AU000000CUV3,AUSX,,
+"""BMW AG""",bmw,DE0005190003,FSE,,
+"""Daimler AG""",daimler,DE0007100000,FSE,,
+"""adidas""",adidas,DE000A1EWWW0,FSE,,
+"""iShares S&P 500 Utilities Sector UCITS ETF USD (Acc)""",14646,IE00B4KBBD01,FSE,etf,https://www.finanzen.net/etf/kurse/shares-sp-500-utilities-sector-etf-ie00b4kbbd01
